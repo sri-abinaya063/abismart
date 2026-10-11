@@ -3,7 +3,7 @@
 <%@ taglib prefix="fmt" uri="jakarta.tags.fmt" %>
 
 <jsp:include page="includes/header.jsp">
-    <jsp:param name="pageTitle" value="SmartShop - Home & Featured Catalog" />
+    <jsp:param name="pageTitle" value="AbiMart - Home & Featured Catalog" />
 </jsp:include>
 
 <jsp:include page="includes/navbar.jsp" />
